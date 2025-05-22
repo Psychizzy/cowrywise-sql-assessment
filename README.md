@@ -1,8 +1,8 @@
 # Data Analytics SQL Assessment – Case Study
 
-This project simulates a real-life SQL analytics task involving a relational database with user accounts, transactions, and savings/investment plans. Each question represents a typical business scenario coming from departments like marketing, finance, or operations.
+This real-life SQL analytics task involving a relational database with user accounts, transactions, and savings/investment plans. Each question represents a typical business scenario coming from departments like marketing, finance, or operations.
 
-As an aspiring data analyst, I approached this task with both technical and business insight — using SQL to transform raw data into clear answers decision-makers can use. The queries were written in MySQL and structured for clarity, efficiency, and scalability.
+As a Data analyst, I approached this task with both technical and business insight using SQL to transform raw data into clear answers decision-makers can use. The queries were written in MySQL and structured for clarity, efficiency, and scalability.
 
 ---
 
